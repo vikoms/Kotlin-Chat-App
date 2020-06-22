@@ -1,6 +1,6 @@
 # Kotlin Chat App
 Kotlin Chat App adalah sebuah aplikasi chatting secara realtime 
- ### <a href="https://drive.google.com/file/d/1tSsK-j2vtjoKuLwdnactpGj8nDF8ZPxp/view?usp=sharing">Download APK</a>
+ ### <a href="https://drive.google.com/file/d/1tSsK-j2vtjoKuLwdnactpGj8nDF8ZPxp/view?usp=sharing">Download App</a>
 
 # Fitur
 * Chat antar user
